@@ -1,3 +1,1 @@
-# flashchat
-
-A new Flutter project.
+This project was created for practice with Firebase auth and database.
